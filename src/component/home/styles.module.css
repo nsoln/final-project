@@ -1,0 +1,22 @@
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid  rgb(225, 167, 67);
+    border-radius: 10px;
+    width: 700px;
+    height: 50px;
+    background-color: bisque;
+}
+
+.houme{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 70px;
+}
+
+.homeExitBtn {
+    display: flex;
+    column-gap: 50px;
+}
